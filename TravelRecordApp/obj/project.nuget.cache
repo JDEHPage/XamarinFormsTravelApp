@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "GlPjZ1ADwVUb0hEUl1MthecWgHmqZ6bS3h7S7ElFcwn+hiSAiwSpjghWtVGiVUGE6vyfyofzE7/9JNU32537Xg==",
+  "dgSpecHash": "+J8nJa65XK7IKP7Qz6okN9JDdPjBGpXzzUw9Wpx1OIZAN1GsYGyzdiKiFTMfJWoc4+5Fo8I7QVP+wguIeypNcQ==",
   "success": true,
   "projectFilePath": "/Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp/TravelRecordApp.csproj",
   "expectedPackageFiles": [
     "/Users/johnpage/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "/Users/johnpage/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512",
+    "/Users/johnpage/.nuget/packages/plugin.permissions/6.0.1/plugin.permissions.6.0.1.nupkg.sha512",
     "/Users/johnpage/.nuget/packages/sqlite-net-pcl/1.7.335/sqlite-net-pcl.1.7.335.nupkg.sha512",
     "/Users/johnpage/.nuget/packages/sqlitepclraw.bundle_green/2.0.3/sqlitepclraw.bundle_green.2.0.3.nupkg.sha512",
     "/Users/johnpage/.nuget/packages/sqlitepclraw.core/2.0.3/sqlitepclraw.core.2.0.3.nupkg.sha512",
