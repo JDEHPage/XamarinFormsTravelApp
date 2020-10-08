@@ -1,0 +1,24 @@
+
+keytool -list -v -keystore /Users/johnpage/.local/share/Xamarin/Mono\ for\ Android/debug.keystore -alias androiddebugkey -storepass android -keypass android
+
+
+Alias name: androiddebugkey
+Creation date: 17 Jul 2020
+Entry type: PrivateKeyEntry
+Certificate chain length: 1
+Certificate[1]:
+Owner: CN=Android Debug, O=Android, C=US
+Issuer: CN=Android Debug, O=Android, C=US
+Serial number: 1ff6d2e
+Valid from: Fri Jul 17 14:52:14 BST 2020 until: Sun Jul 10 14:52:14 BST 2050
+Certificate fingerprints:
+	 SHA1: F6:C8:BA:4C:AD:AF:17:37:06:65:FD:5B:98:54:C0:87:5F:57:91:37
+	 SHA256: 7A:C5:7D:75:B5:36:59:D1:51:9C:BE:B0:C7:52:6A:D9:96:37:08:30:6F:35:ED:EF:83:76:79:E8:E8:8C:EB:02
+Signature algorithm name: SHA256withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+
+
+com.ehpage.travelrecordapp
+

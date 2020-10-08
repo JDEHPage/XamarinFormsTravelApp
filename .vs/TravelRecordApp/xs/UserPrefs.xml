@@ -1,0 +1,39 @@
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{4AEE3FFE-8920-47BA-B101-EC37614C90DC}|Default">
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="TravelRecordApp.Android/MainActivity.cs" Line="17" Column="1" />
+      <File FileName="TravelRecordApp.Android/Properties/AndroidManifest.xml" Line="3" Column="66" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="TravelRecordApp" expanded="True">
+            <Node name="TravelRecordApp" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="TravelRecordApp.Android" expanded="True">
+              <Node name="Properties" expanded="True">
+                <Node name="AndroidManifest.xml" selected="True" />
+              </Node>
+            </Node>
+            <Node name="TravelRecordApp.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.TravelRecordApp.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.nexusoneapir_1" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.TravelRecordApp.iOS automaticSigning="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7CCAEF35-B6D5-4C44-BACF-862878975859" />
+</Properties>
