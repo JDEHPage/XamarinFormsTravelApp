@@ -2,7 +2,7 @@
   <MonoDevelop.Ide.Workbench>
     <Files>
       <File FileName="TravelRecordApp.Android/MainActivity.cs" Line="17" Column="1" />
-      <File FileName="TravelRecordApp.Android/Properties/AndroidManifest.xml" Line="3" Column="66" />
+      <File FileName="TravelRecordApp.Android/Properties/AndroidManifest.xml" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -15,16 +15,12 @@
               </Node>
             </Node>
             <Node name="TravelRecordApp.Android" expanded="True">
-              <Node name="Properties" expanded="True">
-                <Node name="AndroidManifest.xml" selected="True" />
-              </Node>
+              <Node name="Properties" expanded="True" />
+              <Node name="MainActivity.cs" selected="True" />
             </Node>
             <Node name="TravelRecordApp.iOS" expanded="True" />
           </Node>
         </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
