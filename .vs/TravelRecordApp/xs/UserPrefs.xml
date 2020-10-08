@@ -1,5 +1,5 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{4AEE3FFE-8920-47BA-B101-EC37614C90DC}|Default">
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="TravelRecordApp.Android/MainActivity.cs">
     <Files>
       <File FileName="TravelRecordApp.Android/MainActivity.cs" Line="17" Column="1" />
       <File FileName="TravelRecordApp.Android/Properties/AndroidManifest.xml" />
