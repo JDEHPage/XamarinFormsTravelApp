@@ -528,6 +528,9 @@
 /Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.Android/obj/Debug/android/assets/mscorlib.dll
 /Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.Android/obj/Debug/android/assets/mscorlib.pdb
 /Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.Android/obj/Debug/android/assets/netstandard.dll
+/Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.Android/obj/Debug/android/assets/Plugin.CurrentActivity.dll
+/Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.Android/obj/Debug/android/assets/Plugin.Permissions.dll
+/Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.Android/obj/Debug/android/assets/Plugin.Permissions.pdb
 /Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.Android/obj/Debug/android/assets/SQLite-net.dll
 /Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.Android/obj/Debug/android/assets/SQLitePCLRaw.batteries_v2.dll
 /Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.Android/obj/Debug/android/assets/SQLitePCLRaw.core.dll
@@ -856,6 +859,7 @@
 /Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/VisualElementTracker_AttachTracker.java
 /Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/WebViewRenderer.java
 /Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.Android/obj/Debug/android/src/crc643f46942d9dd1fff9/WebViewRenderer_JavascriptResult.java
+/Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.Android/obj/Debug/android/src/crc64435a5ac349fa9fda/ActivityLifecycleContextListener.java
 /Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.Android/obj/Debug/android/src/crc6450e07d0e82e86181/AwaitableResultCallback_1.java
 /Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.Android/obj/Debug/android/src/crc6450e07d0e82e86181/ResultCallback_1.java
 /Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/ButtonRenderer.java

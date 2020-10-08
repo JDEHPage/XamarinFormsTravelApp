@@ -35,4 +35,3 @@
 /Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp/obj/Debug/netstandard2.0/TravelRecordApp.dll
 /Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp/obj/Debug/netstandard2.0/ref/TravelRecordApp.dll
 /Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp/obj/Debug/netstandard2.0/TravelRecordApp.pdb
-/Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp/obj/Debug/netstandard2.0/TravelRecordApp.csprojAssemblyReference.cache
