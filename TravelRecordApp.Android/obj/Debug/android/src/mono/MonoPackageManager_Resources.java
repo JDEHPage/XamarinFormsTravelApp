@@ -5,6 +5,7 @@ public class MonoPackageManager_Resources {
 		"TravelRecordApp.Android.dll",
 		"FormsViewGroup.dll",
 		"Plugin.CurrentActivity.dll",
+		"Plugin.Geolocator.dll",
 		"Plugin.Permissions.dll",
 		"SQLite-net.dll",
 		"SQLitePCLRaw.batteries_v2.dll",

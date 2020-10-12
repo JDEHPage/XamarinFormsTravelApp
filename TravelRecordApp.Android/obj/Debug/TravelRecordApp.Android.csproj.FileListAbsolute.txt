@@ -529,6 +529,7 @@
 /Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.Android/obj/Debug/android/assets/mscorlib.pdb
 /Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.Android/obj/Debug/android/assets/netstandard.dll
 /Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.Android/obj/Debug/android/assets/Plugin.CurrentActivity.dll
+/Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.Android/obj/Debug/android/assets/Plugin.Geolocator.dll
 /Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.Android/obj/Debug/android/assets/Plugin.Permissions.dll
 /Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.Android/obj/Debug/android/assets/Plugin.Permissions.pdb
 /Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.Android/obj/Debug/android/assets/SQLite-net.dll
@@ -883,6 +884,8 @@
 /Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.Android/obj/Debug/android/src/crc64720bb2db43a66fe9/ViewRenderer_2.java
 /Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.Android/obj/Debug/android/src/crc648aad9efe354a1d8f/MapRenderer.java
 /Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.Android/obj/Debug/android/src/crc6495d4f5d63cc5c882/AwaitableTaskCompleteListener_1.java
+/Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.Android/obj/Debug/android/src/crc649efb5bdbf2d8cfa5/GeolocationContinuousListener.java
+/Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.Android/obj/Debug/android/src/crc649efb5bdbf2d8cfa5/GeolocationSingleListener.java
 /Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/AccelerometerListener.java
 /Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/ActivityLifecycleContextListener.java
 /Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.Android/obj/Debug/android/src/crc64a0e0a82d0db9a07d/BarometerListener.java

@@ -8,6 +8,7 @@
 /Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.core.dll
 /Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.iOS/bin/iPhoneSimulator/Debug/SQLitePCLRaw.provider.dynamic_cdecl.dll
 /Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.iOS/bin/iPhoneSimulator/Debug/System.Runtime.CompilerServices.Unsafe.dll
+/Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.iOS/bin/iPhoneSimulator/Debug/Plugin.Geolocator.dll
 /Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.dll
 /Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Essentials.pdb
 /Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Core.dll

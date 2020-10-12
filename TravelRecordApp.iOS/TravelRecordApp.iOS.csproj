@@ -134,11 +134,14 @@
     <PackageReference Include="Plugin.Permissions">
       <Version>6.0.1</Version>
     </PackageReference>
+    <PackageReference Include="Xam.Plugin.Geolocator">
+      <Version>4.5.0.6</Version>
+    </PackageReference>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <ItemGroup>
     <ProjectReference Include="..\TravelRecordApp\TravelRecordApp.csproj">
-      <Project>{8B5CAAB8-5BDB-4F36-816B-4D38C0D7E3E4}</Project>
+      <Project>{291FDF05-1098-4C2A-90A6-79029AA0C21B}</Project>
       <Name>TravelRecordApp</Name>
     </ProjectReference>
   </ItemGroup>

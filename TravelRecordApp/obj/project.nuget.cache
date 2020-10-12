@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "+J8nJa65XK7IKP7Qz6okN9JDdPjBGpXzzUw9Wpx1OIZAN1GsYGyzdiKiFTMfJWoc4+5Fo8I7QVP+wguIeypNcQ==",
+  "dgSpecHash": "E6BTlSHr8UuD+8C37rUZlOMMnCEzgGdNxzVuM/mDQJh6ugvCDbnzDjUPPK9bWbxYyKcAhcSvcPX3PZGTTmVVoQ==",
   "success": true,
   "projectFilePath": "/Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp/TravelRecordApp.csproj",
   "expectedPackageFiles": [
@@ -16,6 +16,7 @@
     "/Users/johnpage/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
     "/Users/johnpage/.nuget/packages/system.numerics.vectors/4.5.0/system.numerics.vectors.4.5.0.nupkg.sha512",
     "/Users/johnpage/.nuget/packages/system.runtime.compilerservices.unsafe/4.5.2/system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "/Users/johnpage/.nuget/packages/xam.plugin.geolocator/4.5.0.6/xam.plugin.geolocator.4.5.0.6.nupkg.sha512",
     "/Users/johnpage/.nuget/packages/xamarin.essentials/1.5.3.2/xamarin.essentials.1.5.3.2.nupkg.sha512",
     "/Users/johnpage/.nuget/packages/xamarin.forms/4.8.0.1451/xamarin.forms.4.8.0.1451.nupkg.sha512",
     "/Users/johnpage/.nuget/packages/xamarin.forms.maps/4.8.0.1451/xamarin.forms.maps.4.8.0.1451.nupkg.sha512"
