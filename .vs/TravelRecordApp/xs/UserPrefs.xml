@@ -1,7 +1,8 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{4AEE3FFE-8920-47BA-B101-EC37614C90DC}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="TravelRecordApp/Helpers/Constants.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TravelRecordApp/Helpers/Venue.cs">
     <Files>
-      <File FileName="TravelRecordApp/Helpers/Constants.cs" Line="1" Column="1" />
+      <File FileName="TravelRecordApp/Helpers/Constants.cs" Line="6" Column="140" />
+      <File FileName="TravelRecordApp/Helpers/Venue.cs" Line="6" Column="9" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -10,7 +11,7 @@
           <Node name="TravelRecordApp" expanded="True">
             <Node name="TravelRecordApp" expanded="True">
               <Node name="Helpers" expanded="True">
-                <Node name="Constants.cs" selected="True" />
+                <Node name="Venue.cs" selected="True" />
               </Node>
               <Node name="MapPage.xaml" expanded="True" />
             </Node>

@@ -56,12 +56,12 @@
 /Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.dll
 /Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.iOS/bin/iPhoneSimulator/Debug/TravelRecordApp.pdb
 /Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.iOS/bin/iPhoneSimulator/Debug/Xamarin.Forms.Platform.iOS.pdb
-/Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone se (2nd generation)-14.0/ibtool/_BundleResourceWithLogicalName.items
-/Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone se (2nd generation)-14.0/actool/_PartialAppManifest.items
-/Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone se (2nd generation)-14.0/actool/_BundleResourceWithLogicalName.items
-/Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone se (2nd generation)-14.0/coremlc/_PartialAppManifest.items
-/Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone se (2nd generation)-14.0/coremlc/_BundleResourceWithLogicalName.items
-/Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone se (2nd generation)-14.0/optimized/
+/Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Debug/coremlc/_PartialAppManifest.items
+/Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Debug/coremlc/_BundleResourceWithLogicalName.items
+/Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Debug/optimized/
 /Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Debug/TravelRecordApp.iOS.csprojAssemblyReference.cache
 /Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Debug/TravelRecordApp.iOS.csproj.CoreCompileInputs.cache
 /Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.iOS/obj/iPhoneSimulator/Debug/TravelRecordApp.iOS.csproj.CopyComplete
