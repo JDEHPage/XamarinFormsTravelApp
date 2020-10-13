@@ -1,9 +1,9 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{4AEE3FFE-8920-47BA-B101-EC37614C90DC}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="TravelRecordApp/Logic/VenueLogic.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TravelRecordApp/Helpers/Venue.cs">
     <Files>
       <File FileName="TravelRecordApp/Logic/VenueLogic.cs" Line="21" Column="1" />
-      <File FileName="TravelRecordApp/Helpers/Venue.cs" />
-      <File FileName="TravelRecordApp/NewTravelPage.xaml.cs" />
+      <File FileName="TravelRecordApp/Helpers/Venue.cs" Line="70" Column="1" />
+      <File FileName="TravelRecordApp/NewTravelPage.xaml.cs" Line="27" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -11,10 +11,10 @@
           <Option id="ShowAllFiles" value="True" />
           <Node name="TravelRecordApp" expanded="True">
             <Node name="TravelRecordApp" expanded="True">
-              <Node name="Helpers" expanded="True" />
-              <Node name="Logic" expanded="True">
-                <Node name="VenueLogic.cs" selected="True" />
+              <Node name="Helpers" expanded="True">
+                <Node name="Venue.cs" selected="True" />
               </Node>
+              <Node name="Logic" expanded="True" />
               <Node name="MapPage.xaml" expanded="True" />
               <Node name="NewTravelPage.xaml" expanded="True" />
             </Node>
@@ -28,8 +28,8 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
-      <Breakpoint file="/Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp/NewTravelPage.xaml.cs" relfile="TravelRecordApp/NewTravelPage.xaml.cs" line="26" column="1" />
       <Breakpoint file="/Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp/Logic/VenueLogic.cs" relfile="TravelRecordApp/Logic/VenueLogic.cs" line="21" column="1" />
+      <Breakpoint file="/Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp/Logic/VenueLogic.cs" relfile="TravelRecordApp/Logic/VenueLogic.cs" line="21" column="13" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
