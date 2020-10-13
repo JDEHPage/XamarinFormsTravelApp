@@ -528,6 +528,7 @@
 /Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.Android/obj/Debug/android/assets/mscorlib.dll
 /Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.Android/obj/Debug/android/assets/mscorlib.pdb
 /Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.Android/obj/Debug/android/assets/netstandard.dll
+/Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.Android/obj/Debug/android/assets/Newtonsoft.Json.dll
 /Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.Android/obj/Debug/android/assets/Plugin.CurrentActivity.dll
 /Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.Android/obj/Debug/android/assets/Plugin.Geolocator.dll
 /Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.Android/obj/Debug/android/assets/Plugin.Permissions.dll
@@ -555,7 +556,10 @@
 /Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.Android/obj/Debug/android/assets/System.IO.Compression.pdb
 /Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.Android/obj/Debug/android/assets/System.Memory.dll
 /Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.Android/obj/Debug/android/assets/System.Net.Http.dll
+/Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.Android/obj/Debug/android/assets/System.Net.Http.Extensions.dll
 /Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.Android/obj/Debug/android/assets/System.Net.Http.pdb
+/Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.Android/obj/Debug/android/assets/System.Net.Http.Primitives.dll
+/Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.Android/obj/Debug/android/assets/System.Net.Primitives.dll
 /Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.Android/obj/Debug/android/assets/System.Numerics.dll
 /Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.Android/obj/Debug/android/assets/System.Numerics.pdb
 /Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.Android/obj/Debug/android/assets/System.Numerics.Vectors.dll
@@ -563,6 +567,7 @@
 /Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.Android/obj/Debug/android/assets/System.pdb
 /Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.Android/obj/Debug/android/assets/System.Runtime.CompilerServices.Unsafe.dll
 /Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.Android/obj/Debug/android/assets/System.Runtime.dll
+/Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.Android/obj/Debug/android/assets/System.Runtime.InteropServices.dll
 /Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.Android/obj/Debug/android/assets/System.Runtime.Serialization.dll
 /Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.Android/obj/Debug/android/assets/System.Runtime.Serialization.pdb
 /Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp.Android/obj/Debug/android/assets/System.ServiceModel.Internals.dll
