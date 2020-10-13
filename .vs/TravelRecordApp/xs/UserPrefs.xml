@@ -1,8 +1,10 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{4AEE3FFE-8920-47BA-B101-EC37614C90DC}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="TravelRecordApp/NewTravelPage.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TravelRecordApp/MapPage.xaml.cs">
     <Files>
-      <File FileName="TravelRecordApp/NewTravelPage.xaml.cs" Line="26" Column="13" />
-      <File FileName="TravelRecordApp/NewTravelPage.xaml" />
+      <File FileName="TravelRecordApp/NewTravelPage.xaml.cs" Line="67" Column="1" />
+      <File FileName="TravelRecordApp/Model/Post.cs" Line="12" Column="40" />
+      <File FileName="TravelRecordApp/HistoryPage.xaml.cs" Line="21" Column="13" />
+      <File FileName="TravelRecordApp/MapPage.xaml.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -12,10 +14,12 @@
             <Node name="TravelRecordApp" expanded="True">
               <Node name="Helpers" expanded="True" />
               <Node name="Logic" expanded="True" />
-              <Node name="MapPage.xaml" expanded="True" />
-              <Node name="NewTravelPage.xaml" expanded="True">
-                <Node name="NewTravelPage.xaml.cs" selected="True" />
+              <Node name="Model" expanded="True" />
+              <Node name="HistoryPage.xaml" expanded="True" />
+              <Node name="MapPage.xaml" expanded="True">
+                <Node name="MapPage.xaml.cs" selected="True" />
               </Node>
+              <Node name="NewTravelPage.xaml" expanded="True" />
             </Node>
           </Node>
         </State>
@@ -26,7 +30,9 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
+    <BreakpointStore>
+      <Breakpoint file="/Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp/HistoryPage.xaml.cs" relfile="TravelRecordApp/HistoryPage.xaml.cs" line="25" column="1" />
+    </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.TravelRecordApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7CCAEF35-B6D5-4C44-BACF-862878975859" />

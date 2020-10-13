@@ -1,7 +1,9 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using Plugin.Geolocator;
 using SQLite;
+using TravelRecordApp.Helpers;
 using TravelRecordApp.Logic;
 using TravelRecordApp.Model;
 using Xamarin.Forms;
@@ -28,25 +30,47 @@ namespace TravelRecordApp
 
         void ToolbarItem_Clicked(System.Object sender, System.EventArgs e)
         {
-            Post post = new Post()
+            try
             {
-                Experience = experienceEntry.Text
-            };
+                var selectedVenue = venueListView.SelectedItem as Venue;
+                var firstCategory = selectedVenue.categories.FirstOrDefault();
 
-            using (SQLiteConnection conn = new SQLiteConnection(App.DatabaseLocation))
-            {
-                conn.CreateTable<Post>();
-                int rows = conn.Insert(post);
+                Post post = new Post()
+                {
+                    Experience = experienceEntry.Text,
+                    CategoryId = firstCategory.id,
+                    CategoryName = firstCategory.name,
+                    Address = selectedVenue.location.address,
+                    Distance = selectedVenue.location.distance,
+                    Latitude = selectedVenue.location.lat,
+                    Longitude = selectedVenue.location.lng,
+                    VenueName = selectedVenue.name
+                };
 
-                if (rows > 0)
+                using (SQLiteConnection conn = new SQLiteConnection(App.DatabaseLocation))
                 {
-                    DisplayAlert("Sucess", "Expreience succesfully inserted", "Ok");
-                }
-                else
-                {
-                    DisplayAlert("Faliure", "Expreience failed to insert", "Ok");
+                    conn.CreateTable<Post>();
+                    int rows = conn.Insert(post);
+
+                    if (rows > 0)
+                    {
+                        DisplayAlert("Sucess", "Expreience succesfully inserted", "Ok");
+                    }
+                    else
+                    {
+                        DisplayAlert("Faliure", "Expreience failed to insert", "Ok");
+                    }
                 }
             }
+            catch(NullReferenceException nre)
+            {
+
+            }
+            catch(Exception ex)
+            {
+
+            }
+
            
         }
     }
