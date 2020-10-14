@@ -1,8 +1,8 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{4AEE3FFE-8920-47BA-B101-EC37614C90DC}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="TravelRecordApp/MainPage.xaml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TravelRecordApp/NewTravelPage.xaml">
     <Files>
-      <File FileName="TravelRecordApp/MainPage.xaml" Line="9" Column="34" />
-      <File FileName="TravelRecordApp/MainPage.xaml.cs" />
+      <File FileName="TravelRecordApp/HomePage.xaml" Line="19" Column="1" />
+      <File FileName="TravelRecordApp/NewTravelPage.xaml" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -10,10 +10,7 @@
           <Option id="ShowAllFiles" value="True" />
           <Node name="TravelRecordApp" expanded="True">
             <Node name="TravelRecordApp" expanded="True">
-              <Node name="MainPage.xaml" selected="True" />
-            </Node>
-            <Node name="TravelRecordApp.Android" expanded="True">
-              <Node name="Resources" expanded="True" />
+              <Node name="NewTravelPage.xaml" expanded="True" selected="True" />
             </Node>
           </Node>
         </State>

@@ -165,7 +165,7 @@
       <SubType></SubType>
       <Generator></Generator>
     </AndroidResource>
-    <AndroidResource Include="Resources\drawable\person.png">
+    <AndroidResource Include="Resources\drawable\user.png">
       <SubType></SubType>
       <Generator></Generator>
     </AndroidResource>
@@ -177,7 +177,7 @@
       <SubType></SubType>
       <Generator></Generator>
     </AndroidResource>
-    <AndroidResource Include="Resources\mipmap-hdpi\person.png">
+    <AndroidResource Include="Resources\mipmap-hdpi\user.png">
       <SubType></SubType>
       <Generator></Generator>
     </AndroidResource>
@@ -189,7 +189,7 @@
       <SubType></SubType>
       <Generator></Generator>
     </AndroidResource>
-    <AndroidResource Include="Resources\mipmap-mdpi\person.png">
+    <AndroidResource Include="Resources\mipmap-mdpi\user.png">
       <SubType></SubType>
       <Generator></Generator>
     </AndroidResource>
@@ -201,7 +201,7 @@
       <SubType></SubType>
       <Generator></Generator>
     </AndroidResource>
-    <AndroidResource Include="Resources\mipmap-xhdpi\person.png">
+    <AndroidResource Include="Resources\mipmap-xhdpi\user.png">
       <SubType></SubType>
       <Generator></Generator>
     </AndroidResource>
@@ -213,7 +213,7 @@
       <SubType></SubType>
       <Generator></Generator>
     </AndroidResource>
-    <AndroidResource Include="Resources\mipmap-xxhdpi\person.png">
+    <AndroidResource Include="Resources\mipmap-xxhdpi\user.png">
       <SubType></SubType>
       <Generator></Generator>
     </AndroidResource>
@@ -225,7 +225,7 @@
       <SubType></SubType>
       <Generator></Generator>
     </AndroidResource>
-    <AndroidResource Include="Resources\mipmap-xxxhdpi\person.png">
+    <AndroidResource Include="Resources\mipmap-xxxhdpi\user.png">
       <SubType></SubType>
       <Generator></Generator>
     </AndroidResource>
