@@ -2,9 +2,9 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="TravelRecordApp/MapPage.xaml.cs">
     <Files>
       <File FileName="TravelRecordApp/NewTravelPage.xaml.cs" Line="67" Column="1" />
-      <File FileName="TravelRecordApp/Model/Post.cs" Line="12" Column="40" />
-      <File FileName="TravelRecordApp/HistoryPage.xaml.cs" Line="21" Column="13" />
-      <File FileName="TravelRecordApp/MapPage.xaml.cs" Line="1" Column="1" />
+      <File FileName="TravelRecordApp/Model/Post.cs" />
+      <File FileName="TravelRecordApp/HistoryPage.xaml.cs" />
+      <File FileName="TravelRecordApp/MapPage.xaml.cs" Line="131" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -30,9 +30,7 @@
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/johnpage/Documents/XamarinProjects/TravelRecordApp/TravelRecordApp/HistoryPage.xaml.cs" relfile="TravelRecordApp/HistoryPage.xaml.cs" line="25" column="1" />
-    </BreakpointStore>
+    <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.TravelRecordApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7CCAEF35-B6D5-4C44-BACF-862878975859" />

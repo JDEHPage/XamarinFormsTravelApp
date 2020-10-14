@@ -21,8 +21,6 @@ namespace TravelRecordApp
             GetPermissions();
         }
 
-
-
         private async void GetPermissions()
         {
             try
@@ -44,6 +42,8 @@ namespace TravelRecordApp
                 {
                     hasLocationPermission = true;
                     locationsMap.IsShowingUser = true;
+
+                    GetLocation();
                 }
                 else
                 {
@@ -64,7 +64,8 @@ namespace TravelRecordApp
             {
                 var locator = CrossGeolocator.Current;
                 locator.PositionChanged += Locator_PositionChanged;
-                await locator.StartListeningAsync(TimeSpan.Zero, 100);
+                await locator.StartListeningAsync(TimeSpan.Zero, 200);
+                
             }
 
             GetLocation();
@@ -101,12 +102,12 @@ namespace TravelRecordApp
             }
         }
 
-        protected override void OnDisappearing()
+        protected override async void OnDisappearing()
         {
             base.OnDisappearing();
 
+            await CrossGeolocator.Current.StopListeningAsync();
             CrossGeolocator.Current.PositionChanged -= Locator_PositionChanged;
-            CrossGeolocator.Current.StopListeningAsync();
         }
 
 
