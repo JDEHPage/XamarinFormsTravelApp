@@ -1,10 +1,8 @@
 ﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{4AEE3FFE-8920-47BA-B101-EC37614C90DC}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="TravelRecordApp/MapPage.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TravelRecordApp/MainPage.xaml.cs">
     <Files>
-      <File FileName="TravelRecordApp/NewTravelPage.xaml.cs" Line="67" Column="1" />
-      <File FileName="TravelRecordApp/Model/Post.cs" />
-      <File FileName="TravelRecordApp/HistoryPage.xaml.cs" />
-      <File FileName="TravelRecordApp/MapPage.xaml.cs" Line="131" Column="1" />
+      <File FileName="TravelRecordApp/MainPage.xaml" Line="9" Column="38" />
+      <File FileName="TravelRecordApp/MainPage.xaml.cs" Line="20" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -12,14 +10,13 @@
           <Option id="ShowAllFiles" value="True" />
           <Node name="TravelRecordApp" expanded="True">
             <Node name="TravelRecordApp" expanded="True">
-              <Node name="Helpers" expanded="True" />
-              <Node name="Logic" expanded="True" />
-              <Node name="Model" expanded="True" />
-              <Node name="HistoryPage.xaml" expanded="True" />
-              <Node name="MapPage.xaml" expanded="True">
-                <Node name="MapPage.xaml.cs" selected="True" />
+              <Node name="Assets" expanded="True">
+                <Node name="Images" expanded="True" />
               </Node>
-              <Node name="NewTravelPage.xaml" expanded="True" />
+              <Node name="MainPage.xaml" expanded="True">
+                <Node name="MainPage.xaml.cs" selected="True" />
+              </Node>
+              <Node name="MapPage.xaml" expanded="True" />
             </Node>
           </Node>
         </State>

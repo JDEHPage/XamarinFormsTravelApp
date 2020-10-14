@@ -64,7 +64,7 @@ namespace TravelRecordApp
             {
                 var locator = CrossGeolocator.Current;
                 locator.PositionChanged += Locator_PositionChanged;
-                await locator.StartListeningAsync(TimeSpan.Zero, 200);
+                await locator.StartListeningAsync(TimeSpan.Zero, 100);
                 
             }
 
