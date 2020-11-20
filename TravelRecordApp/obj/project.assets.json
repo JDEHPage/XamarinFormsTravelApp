@@ -2,6 +2,19 @@
   "version": 3,
   "targets": {
     ".NETStandard,Version=v2.0": {
+      "Microsoft.Azure.Mobile.Client/4.2.0": {
+        "type": "package",
+        "dependencies": {
+          "Newtonsoft.Json": "12.0.3",
+          "System.Numerics.Vectors": "4.5.0"
+        },
+        "compile": {
+          "lib/netstandard2.0/Microsoft.Azure.Mobile.Client.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Azure.Mobile.Client.dll": {}
+        }
+      },
       "Microsoft.Bcl/1.1.10": {
         "type": "package",
         "dependencies": {
@@ -248,7 +261,7 @@
           "lib/netstandard2.0/Xamarin.Essentials.dll": {}
         }
       },
-      "Xamarin.Forms/4.8.0.1451": {
+      "Xamarin.Forms/4.8.0.1687": {
         "type": "package",
         "compile": {
           "lib/netstandard2.0/Xamarin.Forms.Core.dll": {},
@@ -265,10 +278,10 @@
           "buildTransitive/Xamarin.Forms.targets": {}
         }
       },
-      "Xamarin.Forms.Maps/4.8.0.1451": {
+      "Xamarin.Forms.Maps/4.8.0.1687": {
         "type": "package",
         "dependencies": {
-          "Xamarin.Forms": "4.8.0.1451"
+          "Xamarin.Forms": "4.8.0.1687"
         },
         "compile": {
           "lib/netstandard2.0/Xamarin.Forms.Maps.dll": {}
@@ -280,6 +293,30 @@
     }
   },
   "libraries": {
+    "Microsoft.Azure.Mobile.Client/4.2.0": {
+      "sha512": "bSfSCtIMqlBD90TXKfv0zUOZ4I7BXdoFE+q/O2jhMF25hVgkc3DfI5X4RvPO85wqkwPyyR7e+LBFWs43T0G+yA==",
+      "type": "package",
+      "path": "microsoft.azure.mobile.client/4.2.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "icon.png",
+        "lib/monoandroid90/Microsoft.Azure.Mobile.Client.dll",
+        "lib/monoandroid90/Microsoft.Azure.Mobile.Client.xml",
+        "lib/net461/Microsoft.Azure.Mobile.Client.dll",
+        "lib/net461/Microsoft.Azure.Mobile.Client.xml",
+        "lib/netstandard2.0/Microsoft.Azure.Mobile.Client.dll",
+        "lib/netstandard2.0/Microsoft.Azure.Mobile.Client.xml",
+        "lib/uap10.0/Microsoft.Azure.Mobile.Client.dll",
+        "lib/uap10.0/Microsoft.Azure.Mobile.Client.pri",
+        "lib/uap10.0/Microsoft.Azure.Mobile.Client.xml",
+        "lib/xamarinios10/Microsoft.Azure.Mobile.Client.dll",
+        "lib/xamarinios10/Microsoft.Azure.Mobile.Client.xml",
+        "microsoft.azure.mobile.client.4.2.0.nupkg.sha512",
+        "microsoft.azure.mobile.client.nuspec"
+      ]
+    },
     "Microsoft.Bcl/1.1.10": {
       "sha512": "+tTqoh/M1pyL8El3qLy30EcwnAtyvFoDZJtdG9Cbg/WdFbh4N8kyrq198XHuEL7lnJbeD0DRO8jcX5IIOh05cQ==",
       "type": "package",
@@ -949,10 +986,10 @@
         "xamarin.essentials.nuspec"
       ]
     },
-    "Xamarin.Forms/4.8.0.1451": {
-      "sha512": "3RUzBpcaBxOjufLLqJnuZRGLhzAbVyfe/Pyp0AFY/H1MkCHYxXIRzgB8h6yC9NTs39NLK2SgGiaMbvC4TJ/zFA==",
+    "Xamarin.Forms/4.8.0.1687": {
+      "sha512": "o9ACAbleXxorZzIHRBzIloPollwVC7+YTfxE8r3L2frArCHUkrHIy+K+azQag/Un4h2u88DS01HqR16/lMD8zQ==",
       "type": "package",
-      "path": "xamarin.forms/4.8.0.1451",
+      "path": "xamarin.forms/4.8.0.1687",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1261,14 +1298,14 @@
         "lib/uap10.0.16299/Xamarin.Forms.Xaml.dll",
         "lib/uap10.0.16299/Xamarin.Forms.Xaml.pdb",
         "lib/uap10.0.16299/Xamarin.Forms.Xaml.xml",
-        "xamarin.forms.4.8.0.1451.nupkg.sha512",
+        "xamarin.forms.4.8.0.1687.nupkg.sha512",
         "xamarin.forms.nuspec"
       ]
     },
-    "Xamarin.Forms.Maps/4.8.0.1451": {
-      "sha512": "oo5hvE7AaVFBWikESuf/sp31u9dh0DoA3Samc9h9O0jcm05uJMq+GNbNQ4rEoflaQIcXSH+5SVx039/RSI1OsA==",
+    "Xamarin.Forms.Maps/4.8.0.1687": {
+      "sha512": "V3M5BvKl8ZhNqraT5sp1nSP7qYvxdDtwhUwLgWwLRnV03rhe475hcdCnk0xWeEoFQi05hvRyCQvr/TOGQbgUmg==",
       "type": "package",
-      "path": "xamarin.forms.maps/4.8.0.1451",
+      "path": "xamarin.forms.maps/4.8.0.1687",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -1298,21 +1335,22 @@
         "lib/uap10.0.16299/Xamarin.Forms.Maps.UWP.dll",
         "lib/uap10.0.16299/Xamarin.Forms.Maps.UWP.pri",
         "lib/uap10.0.16299/Xamarin.Forms.Maps.dll",
-        "xamarin.forms.maps.4.8.0.1451.nupkg.sha512",
+        "xamarin.forms.maps.4.8.0.1687.nupkg.sha512",
         "xamarin.forms.maps.nuspec"
       ]
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
+      "Microsoft.Azure.Mobile.Client >= 4.2.0",
       "Microsoft.Net.Http >= 2.2.29",
       "NETStandard.Library >= 2.0.3",
       "Newtonsoft.Json >= 12.0.3",
       "Plugin.Permissions >= 6.0.1",
       "Xam.Plugin.Geolocator >= 4.5.0.6",
       "Xamarin.Essentials >= 1.5.3.2",
-      "Xamarin.Forms >= 4.8.0.1451",
-      "Xamarin.Forms.Maps >= 4.8.0.1451",
+      "Xamarin.Forms >= 4.8.0.1687",
+      "Xamarin.Forms.Maps >= 4.8.0.1687",
       "sqlite-net-pcl >= 1.7.335"
     ]
   },
@@ -1339,6 +1377,7 @@
       },
       "frameworks": {
         "netstandard2.0": {
+          "targetAlias": "netstandard2.0",
           "projectReferences": {}
         }
       },
@@ -1350,7 +1389,12 @@
     },
     "frameworks": {
       "netstandard2.0": {
+        "targetAlias": "netstandard2.0",
         "dependencies": {
+          "Microsoft.Azure.Mobile.Client": {
+            "target": "Package",
+            "version": "[4.2.0, )"
+          },
           "Microsoft.Net.Http": {
             "target": "Package",
             "version": "[2.2.29, )"
@@ -1379,11 +1423,11 @@
           },
           "Xamarin.Forms": {
             "target": "Package",
-            "version": "[4.8.0.1451, )"
+            "version": "[4.8.0.1687, )"
           },
           "Xamarin.Forms.Maps": {
             "target": "Package",
-            "version": "[4.8.0.1451, )"
+            "version": "[4.8.0.1687, )"
           },
           "sqlite-net-pcl": {
             "target": "Package",
@@ -1400,7 +1444,7 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.100/RuntimeIdentifierGraph.json"
       }
     }
   },

@@ -1,30 +1,30 @@
-﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{4AEE3FFE-8920-47BA-B101-EC37614C90DC}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="TravelRecordApp/ProfilePage.xaml">
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{4AEE3FFE-8920-47BA-B101-EC37614C90DC}|Default" HasHotReloadOverlayBeenDismissed="True">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TravelRecordApp.Android/MainActivity.cs">
     <Files>
-      <File FileName="TravelRecordApp/ProfilePage.xaml.cs" Line="1" Column="1" />
-      <File FileName="TravelRecordApp/ProfilePage.xaml" Line="1" Column="1" />
+      <File FileName="TravelRecordApp/RegisterPage.xaml" Line="8" Column="26" />
+      <File FileName="TravelRecordApp/RegisterPage.xaml.cs" />
+      <File FileName="TravelRecordApp.iOS/AppDelegate.cs" />
+      <File FileName="TravelRecordApp.Android/MainActivity.cs" Line="32" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Option id="ShowAllFiles" value="True" />
           <Node name="TravelRecordApp" expanded="True">
-            <Node name="TravelRecordApp" expanded="True">
-              <Node name="MainPage.xaml" expanded="True" />
-              <Node name="NewTravelPage.xaml" expanded="True" />
-              <Node name="ProfilePage.xaml" expanded="True" selected="True" />
+            <Node name="TravelRecordApp.Android" expanded="True">
+              <Node name="MainActivity.cs" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.TravelRecordApp.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" PreferredExecutionTarget="Android.nexusoneapir_1" />
+  <MonoDevelop.Ide.ItemProperties.TravelRecordApp.Android AndroidDesignerPreferredTheme="Theme.AppCompat.Light.NoActionBar" TriggeredFromHotReload="False" PreferredExecutionTarget="Android.pixel_2_q_10_0_-_api_29" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <Debugger.DebugSourceFolders />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.TravelRecordApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.7CCAEF35-B6D5-4C44-BACF-862878975859" />
+  <MonoDevelop.Ide.ItemProperties.TravelRecordApp.iOS TriggeredFromHotReload="False" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.2253B02F-4148-4967-B062-845B6DFAF6EC" />
 </Properties>

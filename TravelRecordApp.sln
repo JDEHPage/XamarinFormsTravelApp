@@ -54,4 +54,11 @@ Global
 		{5A603D8C-0CA3-40AA-8E91-6844079F49D0}.Release|iPhone.ActiveCfg = Release|iPhone
 		{5A603D8C-0CA3-40AA-8E91-6844079F49D0}.Release|iPhone.Build.0 = Release|iPhone
 	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		Policies = $0
+		$0.DotNetNamingPolicy = $1
+		$1.DirectoryNamespaceAssociation = PrefixedHierarchical
+		$0.StandardHeader = $2
+		$0.VersionControlPolicy = $3
+	EndGlobalSection
 EndGlobal

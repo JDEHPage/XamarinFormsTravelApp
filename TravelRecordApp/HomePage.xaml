@@ -11,7 +11,7 @@
     <local:HistoryPage Title="History"
                        IconImageSource="home.png"/>
     <local:MapPage Title="Map"
-                   IconImageSource="map.png"/>
+                       IconImageSource="map.png"/>
     <local:ProfilePage Title="Profile"
                        IconImageSource="user.png"/>
         

@@ -1,4 +1,5 @@
 ﻿using System;
+using Microsoft.WindowsAzure.MobileServices;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -7,6 +8,9 @@ namespace TravelRecordApp
     public partial class App : Application
     {
         public static string DatabaseLocation = string.Empty;
+
+        public static MobileServiceClient client = new MobileServiceClient("https://travelappxam.azurewebsites.net");
+
         public App()
         {
             InitializeComponent();
@@ -26,6 +30,7 @@ namespace TravelRecordApp
 
         protected override void OnStart()
         {
+            // Handels when your app starts
         }
 
         protected override void OnSleep()
