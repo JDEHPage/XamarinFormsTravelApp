@@ -12,7 +12,7 @@
                Placeholder="Email Address"
                Keyboard="Email"
                TextColor="{d:StaticResource blueColor}"
-               Text="Test"/>
+               Text="NewUser@Test.some"/>
         <Entry x:Name="passwordEntry"
                Placeholder="Password"
                IsPassword="True"

@@ -1,13 +1,38 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="TravelRecordApp.PostDetailPage">
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TravelRecordApp.PostDetailPage">
 
-    <StackLayout>
-        <Entry x:Name="experienceEntry"/>
+    <StackLayout Margin="16,20,16,0" >
+        <Entry x:Name="experienceEntry"
+               Text="Something Something"/>
+
+        <Label x:Name="venueLabel"
+               Margin="0,30,0,0"
+               FontSize="22"
+               Text="Some fancy stuff"/>
+        <Label x:Name="categoryLabel"
+               Text="Big Park1"
+               TextColor="{StaticResource blueColor}"/>
+        <Label x:Name="addressLable"
+               Text="123 Water Side Road, Ster, GB"
+               FontSize="15"/>
+        <Label x:Name="longitudeLabel"
+               Text="123.123"
+               FontSize="15"/>
+        <Label x:Name="latitudeLabel"
+               Text="124.56"
+               FontSize="15"/>
+        <Label x:Name="distanceLabel"
+               Text="120 m"
+               FontSize="15"/>
+
         <Button Text="Update"
                 x:Name="updateButton"
                 Clicked="updateButton_Clicked"/>
         <Button Text="Delete"
                 x:Name="deleteButton"
+                TextColor="Red"
                 Clicked="deleteButton_Clicked"/>
     </StackLayout>
     

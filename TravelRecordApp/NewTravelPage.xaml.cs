@@ -28,7 +28,7 @@ namespace TravelRecordApp
             venueListView.ItemsSource = venues;
         }
 
-        void ToolbarItem_Clicked(System.Object sender, System.EventArgs e)
+        private async void ToolbarItem_Clicked(System.Object sender, System.EventArgs e)
         {
             try
             {
@@ -44,31 +44,35 @@ namespace TravelRecordApp
                     Distance = selectedVenue.location.distance,
                     Latitude = selectedVenue.location.lat,
                     Longitude = selectedVenue.location.lng,
-                    VenueName = selectedVenue.name
+                    VenueName = selectedVenue.name,
+                    UserId = App.user.Id
                 };
 
-                using (SQLiteConnection conn = new SQLiteConnection(App.DatabaseLocation))
-                {
-                    conn.CreateTable<Post>();
-                    int rows = conn.Insert(post);
+                //using (SQLiteConnection conn = new SQLiteConnection(App.DatabaseLocation))
+                //{
+                //    conn.CreateTable<Post>();
+                //    int rows = conn.Insert(post);
 
-                    if (rows > 0)
-                    {
-                        DisplayAlert("Sucess", "Expreience succesfully inserted", "Ok");
-                    }
-                    else
-                    {
-                        DisplayAlert("Faliure", "Expreience failed to insert", "Ok");
-                    }
-                }
+                //    if (rows > 0)
+                //    {
+                //        DisplayAlert("Sucess", "Expreience succesfully inserted", "Ok");
+                //    }
+                //    else
+                //    {
+                //        DisplayAlert("Faliure", "Expreience failed to insert", "Ok");
+                //    }
+                //}
+
+                await App.MobileService.GetTable<Post>().InsertAsync(post);
+                await DisplayAlert("Sucess", "Expreience succesfully inserted", "Ok");
             }
             catch(NullReferenceException nre)
             {
-
+                await DisplayAlert("Faliure", "Expreience failed to insert", "Ok");
             }
             catch(Exception ex)
             {
-
+                await DisplayAlert("Faliure", "Expreience failed to insert", "Ok");
             }
 
            

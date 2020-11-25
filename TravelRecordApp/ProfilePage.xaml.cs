@@ -14,20 +14,21 @@ namespace TravelRecordApp
             InitializeComponent();
         }
 
-        protected override void OnAppearing()
+        protected override async void OnAppearing()
         {
             base.OnAppearing();
 
-            using(SQLiteConnection conn = new SQLiteConnection(App.DatabaseLocation))
-            {
-                var postTable = conn.Table<Post>().ToList();
+            //using(SQLiteConnection conn = new SQLiteConnection(App.DatabaseLocation))
+            //{
+                //var postTable = conn.Table<Post>().ToList();
+                var postTable = await App.MobileService.GetTable<Post>().Where(p => p.UserId == App.user.Id).ToListAsync();
 
-                //var categories = (from p in postTable
-                //                  orderby p.CategoryId
-                //                  select p.CategoryName).Distinct().ToList();
+            //var categories = (from p in postTable
+            //                  orderby p.CategoryId
+            //                  select p.CategoryName).Distinct().ToList();
 
-                //This is the same as the first Linq categories query just shorter syntax
-                var categories2 = postTable.OrderBy(p => p.CategoryId).Select(p => p.CategoryName).Distinct().ToList();
+            //This is the same as the first Linq categories query just shorter syntax
+            var categories2 = postTable.OrderBy(p => p.CategoryId).Select(p => p.CategoryName).Distinct().ToList();
 
                 Dictionary<string, int> categoryCount = new Dictionary<string, int>();
 
@@ -41,7 +42,7 @@ namespace TravelRecordApp
                     var count2 = postTable.Where(p => p.CategoryName == category).ToList().Count;
 
                     categoryCount.Add(category, count2);
-                }
+                //}
 
                 categoryListView.ItemsSource = categoryCount;
 
